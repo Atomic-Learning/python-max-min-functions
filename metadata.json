@@ -1,0 +1,20 @@
+{
+    "title": "Python: max() and min() Functions",
+    "slug": "python-max-min-functions",
+    "description": "Use Python's max() and min() built-in functions to find largest and smallest values in iterables.",
+    "authors": [
+        "chris-cooling"
+    ],
+    "tags": [
+        "python"
+    ],
+    "duration": 2,
+    "prerequisites": [
+        "programming-calling-functions",
+        "python-lists-introduction"
+    ],
+    "related": [
+        "exercise-python-largest-with-optional-argument",
+        "sample-solution-2-python-largest-with-optional-argument"
+    ]
+}
