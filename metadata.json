@@ -16,7 +16,6 @@
         "python-variables"
     ],
     "related": [
-        "exercise-python-largest-with-optional-argument",
-        "sample-solution-2-python-largest-with-optional-argument"
+        "exercise-python-largest-with-optional-argument"
     ]
 }
