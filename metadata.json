@@ -11,10 +11,11 @@
     "duration": 2,
     "prerequisites": [
         "programming-calling-functions",
-        "python-lists-introduction"
+        "python-lists-introduction",
+        "programming-integers-and-floats",
+        "python-variables"
     ],
     "related": [
-        "exercise-python-largest-with-optional-argument",
-        "sample-solution-2-python-largest-with-optional-argument"
+        "exercise-python-largest-with-optional-argument"
     ]
 }
